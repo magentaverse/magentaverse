@@ -10,8 +10,8 @@
 
 🚀 Goal : I aim to become test automation specialist. I want to deliver value by mixing business, testing and technical skills!
 
+![giphy](https://github.com/magentaverse/magentaverse/assets/125647206/6692f5c5-66ae-404f-9230-57019bcec137)
 
-![giphy](https://github.com/magentaverse/magentaverse/assets/125647206/06624706-c9e5-4887-b562-15ffe4983714) 
 
 
 **📫 How to reach me:** <br>
@@ -19,7 +19,7 @@
 
 **👉 What value can I add to YOUR TEAM as automation tester and former business analyst? 👈**
 
-✨ Thorough understanding of the product and its requirements -> Wise selection of tests for automation
+✨ Thorough understanding of the product and its requirements -> Wise selection of tests 
 
 ✨ Sharp analytical skills -> I enjoy solving different problems - like debugging of failing tests
 
