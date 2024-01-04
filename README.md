@@ -1,4 +1,7 @@
-# Hi, I'm happy to see you here!👋   
+
+# ![octocat-1704374157054](https://github.com/magentaverse/magentaverse/assets/125647206/31082d30-49f2-4162-87b3-28f70a5f088d)  Hi, I'm happy to see you here!  ![](https://komarev.com/ghpvc/?username=magentaverse&color=ff69b4&base=566) 
+
+
 
 😇 Name : Joanna (EN: Asia)
 
@@ -7,7 +10,7 @@
 
 🚀 Goal : I aim to become test automation specialist. I want to deliver value by mixing business, testing and technical skills!
 
-
+![giphy](https://github.com/magentaverse/magentaverse/assets/125647206/06624706-c9e5-4887-b562-15ffe4983714)
 
 **📫 How to reach me:** <br>
 ⚡ <a href="mailto:joanna.szaban@gmail.com">Send e-mail</a> <br>
@@ -28,7 +31,8 @@
 # 📚 My repositories
 ✅ Take a look at my files, to evaluate my work 😊
 👉 [Selenium Library & PyTest](https://github.com/magentaverse/Testy-Automatyczne-Zadnie-1)<br>
-✅ Check out the folder with my [Test Cases](https://drive.google.com/drive/u/0/folders/1N6onRvH2zfWY7E_H8zN1-74SeStdhP7q) <br>
+✅ Check out the folder with my [Test Cases](https://drive.google.com/drive/u/0/folders/1N6onRvH2zfWY7E_H8zN1-74SeStdhP7q) <br>![Uploading octocat-1704374157054.png…]()
+
 ✅  Here you can find my repository using [Robot Framework](https://github.com/magentaverse/Dare_IT_Challenges_portfolio_robotframework)😊<br>
 ✅  Below you can find links to reports<br>
 👉 [Bug report- QA](https://drive.google.com/drive/folders/11kk8od0-e42XKbh7TiwU4eMhVbe1Y8Lz?usp=drive_link)<br>
