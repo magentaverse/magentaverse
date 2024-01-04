@@ -1,7 +1,7 @@
 
 # ![octocat-1704374157054](https://github.com/magentaverse/magentaverse/assets/125647206/31082d30-49f2-4162-87b3-28f70a5f088d)  Hi, I'm happy to see you here!  ![](https://komarev.com/ghpvc/?username=magentaverse&color=ff69b4&base=2222) 
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F744A9&random=false&width=435&lines=%3C3+Test+Automation+%3C3)](https://git.io/typing-svg)
 
 😇 Name : Joanna (EN: Asia)
 
