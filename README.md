@@ -33,7 +33,7 @@
 # 📚 My repositories
 ✅ Take a look at my files, to evaluate my work 😊
 👉 [Selenium Library & PyTest](https://github.com/magentaverse/Testy-Automatyczne-Zadnie-1)<br>
-✅ Check out the folder with my [Test Cases](https://drive.google.com/drive/u/0/folders/1N6onRvH2zfWY7E_H8zN1-74SeStdhP7q) <br>!
+✅ Check out the folder with my [Test Cases](https://drive.google.com/drive/u/0/folders/1N6onRvH2zfWY7E_H8zN1-74SeStdhP7q) <br>
 
 ✅  Here you can find my repository using [Robot Framework](https://github.com/magentaverse/Dare_IT_Challenges_portfolio_robotframework)😊<br>
 ✅  Below you can find links to reports<br>
