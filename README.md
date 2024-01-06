@@ -5,10 +5,10 @@
 
 😇 Name : Joanna (EN: Asia)
 
-💻 Working in IT since 2016 as tester, project manager, product owner -> [My professional experience](https://www.linkedin.com/in/joanna-szaban)
+💻 Working in IT since 2016 as a tester, project manager, product owner -> [My professional experience](https://www.linkedin.com/in/joanna-szaban)
 
 
-🚀 Goal : I aim to become test automation specialist. I want to deliver value by mixing business, testing and technical skills!
+🚀 Goal : I aim to become a test automation specialist. I want to deliver value by mixing business, testing and technical skills!
 
 ![giphy](https://github.com/magentaverse/magentaverse/assets/125647206/6692f5c5-66ae-404f-9230-57019bcec137)
 
@@ -17,7 +17,7 @@
 **📫 How to reach me:** <br>
 ⚡ <a href="mailto:joanna.szaban@gmail.com">Send e-mail</a> <br>
 
-**👉 What value can I add to YOUR TEAM as automation tester and former PM? 👈**
+**👉 What value can I add to YOUR TEAM as an automation tester and former PM? 👈**
 
 ✨ Thorough understanding of the product and its requirements -> Wise selection of tests 
 
