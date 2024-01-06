@@ -17,7 +17,7 @@
 **📫 How to reach me:** <br>
 ⚡ <a href="mailto:joanna.szaban@gmail.com">Send e-mail</a> <br>
 
-**👉 What value can I add to YOUR TEAM as automation tester and former business analyst? 👈**
+**👉 What value can I add to YOUR TEAM as automation tester and former PM? 👈**
 
 ✨ Thorough understanding of the product and its requirements -> Wise selection of tests 
 
