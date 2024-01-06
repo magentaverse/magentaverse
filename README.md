@@ -5,7 +5,7 @@
 
 😇 Name : Joanna (EN: Asia)
 
-💻 Working in IT since 2016 as tester, business analyst, product owner -> [My professional experience](https://www.linkedin.com/in/joanna-szaban)
+💻 Working in IT since 2016 as tester, project manager, product owner -> [My professional experience](https://www.linkedin.com/in/joanna-szaban)
 
 
 🚀 Goal : I aim to become test automation specialist. I want to deliver value by mixing business, testing and technical skills!
