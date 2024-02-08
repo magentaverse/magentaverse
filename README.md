@@ -31,7 +31,7 @@
 
 📚 My test automation projects:
 
-✨ [Restful Booker API Postman collection](https://github.com/magentaverse/Restful-booker-api-postman/tree/main) Postman collection of requests 
+* [Restful Booker API Postman collection](https://github.com/magentaverse/Restful-booker-api-postman/tree/main) Postman collection of requests 
 
 
 # 📚 My repositories
