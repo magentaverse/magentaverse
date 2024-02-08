@@ -29,6 +29,10 @@
 
 👍 Currently learning: Playwright. Check my other learning activities ⤵️⤵️
 
+📚 My test automation projects:
+
+✨ ![Restful Booker API Postman collection](https://github.com/magentaverse/Restful-booker-api-postman/tree/main) Postman collection of requests 
+
 
 # 📚 My repositories
 ✅ Take a look at my files, to evaluate my work 😊
