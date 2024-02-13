@@ -6,7 +6,7 @@
 💻 Working in IT since 2016 as a tester, project manager, product owner -> [My professional experience](https://www.linkedin.com/in/joanna-szaban)
 
 
-🚀 Goal : I aim to become a Software Tester. I want to deliver value by mixing business, testing and technical skills!
+🚀 Goal : I aim to become a skilled Software Tester. I want to deliver value by mixing business, testing and technical skills!
 
 ![giphy](https://github.com/magentaverse/magentaverse/assets/125647206/6692f5c5-66ae-404f-9230-57019bcec137)
 
