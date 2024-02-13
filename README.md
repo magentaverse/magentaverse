@@ -6,7 +6,7 @@
 💻 Working in IT since 2016 as a tester, project manager, product owner -> [My professional experience](https://www.linkedin.com/in/joanna-szaban)
 
 
-🚀 Goal : I aim to become a test automation specialist. I want to deliver value by mixing business, testing and technical skills!
+🚀 Goal : I aim to become a Software Tester. I want to deliver value by mixing business, testing and technical skills!
 
 ![giphy](https://github.com/magentaverse/magentaverse/assets/125647206/6692f5c5-66ae-404f-9230-57019bcec137)
 
@@ -28,7 +28,7 @@
 👍 Currently learning: Playwright. Check my other learning activities ⤵️⤵️
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F729DA&random=false&width=435&lines=I+want+to+explore+test+automation+%3C3)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F729DA&random=false&width=435&lines=I+want+to+explore+test+automation+%3C3" alt="Typing SVG" /></a>
 
 📚 My test automation projects:
 
